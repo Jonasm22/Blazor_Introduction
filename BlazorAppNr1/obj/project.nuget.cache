@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUMZvzZe9jo=",
+  "success": true,
+  "projectFilePath": "/Users/jonathan/Documents/BlazorMacOS/BlazorAppNr1/BlazorAppNr1.csproj",
+  "expectedPackageFiles": [
+    "/Users/jonathan/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/jonathan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/jonathan/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

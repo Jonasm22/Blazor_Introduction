@@ -1,0 +1,11 @@
+  <!--Codigo-->
+<span class="@CssClass">@DatumsAusgabe</span>
+@code{
+
+    private string DatumsAusgabe = 
+    DateTime.Now.ToShortDateString();
+
+    [Parameter]
+    public string? CssClass {get; set;}
+
+}
