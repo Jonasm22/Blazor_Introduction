@@ -1,0 +1,30 @@
+<!-- Componente Umfrage.razor -->
+<input type="range" @bind="Bewertung" min="1" max="@Anzahl" />
+<span>@Ausgabe</span>
+
+@code{
+    [Parameter]
+    public int Anzahl { get; set; } = 5;
+
+    private string Ausgabe = string.Empty;
+    private string opinion;
+
+    private int? _bewertung = 0;
+    private int? Bewertung
+    {
+        get
+        {
+            return _bewertung;
+        }
+        set
+        {
+            _bewertung = value;
+            Ausgabe = $"Bewertung {_bewertung} Danke :) {opinion}" ;
+
+        
+
+        }
+
+        
+    }
+}

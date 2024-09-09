@@ -31,3 +31,4 @@
 /Users/jonathan/Documents/BlazorMacOS/BlazorAppNr1/obj/Debug/net7.0/ref/BlazorAppNr1.dll
 /Users/jonathan/Documents/BlazorMacOS/BlazorAppNr1/bin/Debug/net7.0/Pages/web.config
 /Users/jonathan/Documents/BlazorMacOS/BlazorAppNr1/obj/Debug/net7.0/scopedcss/Pages/Tastatur.razor.rz.scp.css
+/Users/jonathan/Documents/BlazorMacOS/BlazorAppNr1/obj/Debug/net7.0/BlazorAppNr1.sourcelink.json
